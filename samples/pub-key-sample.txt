@@ -1,0 +1,16 @@
+
+# alloc
+privKey :  a132ccad0c8e39f52c2b7322e8bb910fde38ce188559e7c9a9fbf3ea1069715e
+address :  0x6949ff29E635345F08BF9b7E6A51DF1a95fdaD29
+
+===========================================================================
+
+# miningbeneficiary
+privKey :  980a022c6ae559a6ee3dec65bde4076c27f578b55ea5bec194eb6b31d17faa89
+address :  0x22cB261c5960E6018d2E6c2FC8B051660459dD13
+
+===========================================================================
+
+# coinbase
+privKey :  3174b7cb2134f32783f0df91679d1443d1a90c00eeb79f4230c7d856108afcf5
+address :  0x2082b93Ff2Ee9b13E7da3EFd57c8DD54CCb40d8C

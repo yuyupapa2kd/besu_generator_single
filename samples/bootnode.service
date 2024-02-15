@@ -1,0 +1,14 @@
+[Unit]
+Description=Hyperledger Besu BootNode
+After=network.target
+
+[Service]
+EnvironmentFile=/etc/default/bootnode
+EnvironmentFile=/etc/environment
+# Operating System
+User=ubuntu
+Group=ubuntu
+ExecStart=/opt/besu/bin/besu
+
+[Install]
+WantedBy=multi-user.target
